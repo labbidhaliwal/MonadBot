@@ -14,8 +14,8 @@ Monad-BOT is a blockchain automation tool designed to interact with various cryp
 1. Clone the repository:
 
    ```bash
-   git clone https://codeberg.org/Galkurta/Monad-BOT.git
-   cd Monad-BOT
+   git clone https://github.com/labbidhaliwal/MonadBot.git
+   cd MonadBot
    ```
 
 2. Install dependencies:
